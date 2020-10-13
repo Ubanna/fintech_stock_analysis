@@ -4,7 +4,7 @@ On the 4th of September, 2020, CNBC published an article on the rise of fintech 
 
 Here is the link to the article by CNBC - [Link here][website].
 
-This is brief analysis of the stocks of Paypal, Square, and Goldman Sachs from January 2016 - September 2020.
+This is an analysis of the stocks of Paypal, Square, and Goldman Sachs from January 2016 - September 2020.
 
 Data is gotten from yahoo finance api
 
